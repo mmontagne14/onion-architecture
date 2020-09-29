@@ -1,0 +1,9 @@
+C:\Users\Marcelo\source\repos\OnionArchitecture\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\Marcelo\source\repos\OnionArchitecture\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Marcelo\source\repos\OnionArchitecture\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Marcelo\source\repos\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\Marcelo\source\repos\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\Marcelo\source\repos\OnionArchitecture\Domain\obj\Debug\netstandard2.1\Domain.pdb
