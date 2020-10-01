@@ -6,6 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using Persistance.Dapper;
 using Persistence;
 
 namespace WebApi
@@ -38,6 +39,7 @@ namespace WebApi
 
             services.AddApplication();
             services.AddPersistence(Configuration);
+            services.AddInfrastructure();
 
             #region API Versioning
             // Add API Versioning to the Project

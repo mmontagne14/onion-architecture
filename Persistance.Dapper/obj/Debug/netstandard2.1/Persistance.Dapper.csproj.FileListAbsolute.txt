@@ -1,0 +1,14 @@
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\bin\Debug\netstandard2.1\Persistance.Dapper.deps.json
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\bin\Debug\netstandard2.1\Persistance.Dapper.dll
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\bin\Debug\netstandard2.1\Persistance.Dapper.pdb
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\bin\Debug\netstandard2.1\Application.dll
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\bin\Debug\netstandard2.1\Application.pdb
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\obj\Debug\netstandard2.1\Persistance.Dapper.csprojAssemblyReference.cache
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\obj\Debug\netstandard2.1\Persistance.Dapper.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\obj\Debug\netstandard2.1\Persistance.Dapper.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\obj\Debug\netstandard2.1\Persistance.Dapper.csproj.CopyComplete
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\obj\Debug\netstandard2.1\Persistance.Dapper.dll
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\obj\Debug\netstandard2.1\Persistance.Dapper.pdb
+C:\Users\Marcelo\source\repos\OnionArchitecture\Persistance.Dapper\obj\Debug\netstandard2.1\Persistance.Dapper.csproj.CoreCompileInputs.cache

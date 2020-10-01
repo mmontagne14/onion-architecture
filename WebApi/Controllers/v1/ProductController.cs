@@ -4,7 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Application.Features.ProductFeatures.Commands;
 using Application.Features.ProductFeatures.Queries;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApi.Controllers.v1

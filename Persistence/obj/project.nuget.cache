@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HkBHT9Xjv6MO19bS+NoaZm9PoJiqX0oHF2HMhjfcW27MhqEX/dLwY2PX9hOmKX4mmD4FrbuJ6GvHbDWfBTfFIg==",
+  "dgSpecHash": "t0+ZyDfWOlAiKCifBaW/TUDuqpS8wwR0yjZUu1YIRxC/O9PaZSJagVKQM3ftfEQyOvA40h0WMSH3a1SsGC6+9Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marcelo\\source\\repos\\OnionArchitecture\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
@@ -37,7 +37,7 @@
     "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Marcelo\\.nuget\\packages\\mysqlconnector\\0.69.9\\mysqlconnector.0.69.9.nupkg.sha512",
     "C:\\Users\\Marcelo\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
-    "C:\\Users\\Marcelo\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\3.2.1\\pomelo.entityframeworkcore.mysql.3.2.1.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\3.2.2\\pomelo.entityframeworkcore.mysql.3.2.2.nupkg.sha512",
     "C:\\Users\\Marcelo\\.nuget\\packages\\pomelo.jsonobject\\2.2.1\\pomelo.jsonobject.2.2.1.nupkg.sha512",
     "C:\\Users\\Marcelo\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Marcelo\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

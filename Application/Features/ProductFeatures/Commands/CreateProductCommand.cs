@@ -15,9 +15,11 @@ namespace Application.Features.ProductFeatures.Commands
         public class CreateProductCommandHandler : IRequestHandler<CreateProductCommand, int>
         {
             private readonly IApplicationDbContext _context;
-            public CreateProductCommandHandler(IApplicationDbContext context)
+            private readonly IUnitOfWork _unitOfWork;
+            public CreateProductCommandHandler(IApplicationDbContext context, IUnitOfWork unitOfWork)
             {
                 _context = context;
+                _unitOfWork = unitOfWork;
             }
             public async Task<int> Handle(CreateProductCommand command, CancellationToken cancellationToken)
             {

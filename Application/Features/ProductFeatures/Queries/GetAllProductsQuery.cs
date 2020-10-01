@@ -12,19 +12,19 @@ namespace Application.Features.ProductFeatures.Queries
     {
         public class GetAllProductsQueryHandler : IRequestHandler<GetAllProductsQuery, IEnumerable<Product>>
         {
-            private readonly IApplicationDbContext _context;
-            public GetAllProductsQueryHandler(IApplicationDbContext context)
+            private readonly IUnitOfWork _unitOfWork;
+            public GetAllProductsQueryHandler(IUnitOfWork unitOfWork)
             {
-                _context = context;
+                _unitOfWork = unitOfWork;
             }
             public async Task<IEnumerable<Product>> Handle(GetAllProductsQuery query, CancellationToken cancellationToken)
             {
-                var productList = await _context.Products.ToListAsync();
-                if (productList == null)
-                {
-                    return null;
-                }
-                return productList.AsReadOnly();
+                    var productList = await _unitOfWork.Products.GetAllAsync();
+                    if (productList == null)
+                    {
+                        return null;
+                    }
+                    return productList;
             }
         }
     }

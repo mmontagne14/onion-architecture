@@ -416,7 +416,7 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "Pomelo.EntityFrameworkCore.MySql/3.2.1": {
+      "Pomelo.EntityFrameworkCore.MySql/3.2.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Relational": "[3.1.8, 5.0.0)",
@@ -2164,16 +2164,16 @@
         "newtonsoft.json.nuspec"
       ]
     },
-    "Pomelo.EntityFrameworkCore.MySql/3.2.1": {
-      "sha512": "gM8s6rckXRp3uknTS6WVTYJI4byn+DWc9BsOTN5zTbksw/WB4RFcN+NSlWoTI4/1GGxSy7paoFq/99jq5wUNFQ==",
+    "Pomelo.EntityFrameworkCore.MySql/3.2.2": {
+      "sha512": "reS6wjNMnCjEiYwtLtuyrrfoxAx7ml/d8YWb47x7I9dXuBOvp47Iir03VfFIu+a/FpZDQ3p167n5VInuKERzBQ==",
       "type": "package",
-      "path": "pomelo.entityframeworkcore.mysql/3.2.1",
+      "path": "pomelo.entityframeworkcore.mysql/3.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "icon.png",
         "lib/netstandard2.0/Pomelo.EntityFrameworkCore.MySql.dll",
-        "pomelo.entityframeworkcore.mysql.3.2.1.nupkg.sha512",
+        "pomelo.entityframeworkcore.mysql.3.2.2.nupkg.sha512",
         "pomelo.entityframeworkcore.mysql.nuspec"
       ]
     },
@@ -5435,7 +5435,7 @@
       "Application >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 3.1.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.8",
-      "Pomelo.EntityFrameworkCore.MySql >= 3.2.1"
+      "Pomelo.EntityFrameworkCore.MySql >= 3.2.2"
     ]
   },
   "packageFolders": {
@@ -5489,7 +5489,7 @@
           },
           "Pomelo.EntityFrameworkCore.MySql": {
             "target": "Package",
-            "version": "[3.2.1, )"
+            "version": "[3.2.2, )"
           }
         },
         "imports": [
